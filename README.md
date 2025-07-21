@@ -44,10 +44,9 @@
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"/>
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim"/>
-  <img width="12" />
-<img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim"/>
-  <img width="12" />
+
+
+
 <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm"/>
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio"/>
